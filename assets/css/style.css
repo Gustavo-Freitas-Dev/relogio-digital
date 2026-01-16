@@ -46,3 +46,16 @@ body {
 #tempo {
     font-size: 10px;
 }
+
+@media (max-width: 450px) {
+    
+    .relogio {
+        width: 380px;
+        height:200px;
+    }
+    
+    .relogio div{
+        width: 115px;
+        height: 130px;
+    }
+}
